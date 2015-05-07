@@ -35,9 +35,9 @@
 +  cont1++;
 +}
 +
-+cout << " Average gas mileage on city is: " << sumcity/93 << " mpg" << endl;
-+cout << " Average gas mileage on highway is: " << sumhighway/93 << " mpg" << endl;
-+cout << " Average midrange price is: " <<sumrange/93 << " (in K)" << endl;
++cout << " Average gas mileage on the city: " << sumcity/93 << " mpg" << endl;
++cout << " Average gas mileage on the highway: " << sumhighway/93 << " mpg" << endl;
++cout << " Average midrange price: " <<sumrange/93 << " (in K)" << endl;
 +
 +return 0;
 +} 
